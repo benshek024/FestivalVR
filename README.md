@@ -3,6 +3,11 @@
    
  [Festival VR Trailer](https://youtu.be/Wc8P8sQD--o)
  
+# Requirements to Play The Game
+ VR Device & Controllers  
+ VR-Ready Computer  
+ Basic knowledge on VR controls
+ 
 # What is Festival VR?
  Festival VR is a casual genre VR game that aims to provide users with an immersive experience about Japanese Natsu Matsuri through VR devices. With numerous mini-games located around the area, and large amount of self-created 3D models modeled in Natsu Matsuri theme, users can experience Natsu Matsuri festival at their home with a VR device.
  

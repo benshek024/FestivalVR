@@ -10,5 +10,5 @@
  Since the original project files are too large to upload into GitHub, only the scripts and executable file will be provided in here. In order to play Festival VR, a working VR device and controllers are required. The game should be compatible with most of the VR devices on the market that supports SteamVR since it was developed using SteamVR api in Unity
 
 # Download Executable File or View Demo Video
-[Executable File](https://drive.google.com/file/d/14z5Bazek0jrc-hCHxsUjKTr7j89LO1rU/view)  
+[Executable File](https://drive.google.com/file/d/14z5Bazek0jrc-hCHxsUjKTr7j89LO1rU/view?usp=sharing)  
 [Demo Video](https://youtu.be/GPAGxKVH-Ng)
